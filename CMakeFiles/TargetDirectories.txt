@@ -1,0 +1,3 @@
+/Users/baronghi/Docs/Linux/Vim/CMakeFiles/rebuild_cache.dir
+/Users/baronghi/Docs/Linux/Vim/CMakeFiles/edit_cache.dir
+/Users/baronghi/Docs/Linux/Vim/CMakeFiles/CMakeHello.dir
